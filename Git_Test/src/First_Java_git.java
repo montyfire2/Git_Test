@@ -6,13 +6,13 @@ public class First_Java_git {
 		
 		System.out.println("Hello git");
 		
-		//second code commit on 24th
+		//second code
 	
 		System.out.println("againg write from ecillips");
 
-//Third
+//updated from git
 		
-		System.out.println("Changes from ecillips on 23rd may");
+		System.out.println("Changes from git  on 24th may");
 	}
 
 }
