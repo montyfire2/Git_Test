@@ -5,6 +5,10 @@ public class Second_java {
 		// TODO Auto-generated method stub
 
 		System.out.println("git");
+		
+		System.out.println("montu");
+		
+		System.out.println("gautam");
 	}
 
 }
